@@ -22,7 +22,7 @@ O objetivo foi consolidar os aprendizados das aulas, aplicando na prática a imp
 ## 📘 Repositórios
 
 Para visualizar o código completo da máquina de estados veja o arquivo disponível em [`/screenshots`](./screenshots).
-Para mais detalhes sobre meu aprendizado, consulte as anotações:  [📘 docs](./docss/anotacoes)
+Para mais detalhes sobre meu aprendizado, consulte as anotações:  [📘 docs](./docs/anotacoes)
 
 - **docs/**: Anotações e insights da prática.
 - **templates/**: Templates YAML utilizados para criar a Stack.
