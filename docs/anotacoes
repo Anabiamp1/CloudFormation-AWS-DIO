@@ -1,0 +1,15 @@
+# ✨ Insights
+
+## 📘 Aprendizados principais
+- Criação de Stacks utilizando YAML no CloudFormation.
+- Diferença entre recursos gerenciados e não gerenciados.
+- Uso de outputs para compartilhar informações entre Stacks.
+- Organização do repositório para melhor leitura e versionamento de templates.
+
+## 💡 Desafios enfrentados
+- Status de criação de cada recurso.
+- Permissões IAM ao criar recursos.
+- Nomes disponíveis para a criação da nova stack.
+
+
+
