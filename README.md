@@ -30,8 +30,7 @@ Para mais detalhes sobre meu aprendizado, consulte as anotações:  [📘 docs](
 
 ---
 
-##
-💡 Aprendizados
+## 💡Aprendizados
 
 - Aplicar os conceitos aprendidos em um ambiente prático.
 - Documentar processos técnicos de forma clara e estruturada.
@@ -39,9 +38,7 @@ Para mais detalhes sobre meu aprendizado, consulte as anotações:  [📘 docs](
 - Boa prática: sempre estruturar o repositório com README, código e imagens organizados.
 
 
-##
-
-📚 Recursos Úteis
+## 📚 Recursos Úteis
 
 - [📖 AWS CloudFormation – Documentação Oficial](https://docs.aws.amazon.com/cloudformation/)
 - [⚡ AWS CloudFormation Template Anatomy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html)
