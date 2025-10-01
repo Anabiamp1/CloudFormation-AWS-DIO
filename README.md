@@ -9,9 +9,6 @@ O objetivo foi consolidar os aprendizados das aulas, aplicando na prática a imp
 
 ---
 
-
----
-
 ## 🛠️ Tecnologias e Serviços Utilizados
 
 - **AWS CloudFormation**
@@ -24,11 +21,12 @@ O objetivo foi consolidar os aprendizados das aulas, aplicando na prática a imp
 
 ## 📘 Repositórios
 
-Para visualizar o código completo da máquina de estados veja o arquivo disponível em [`/state/hello-json`](./state/hello-json).
+Para visualizar o código completo da máquina de estados veja o arquivo disponível em [`/screenshots`](./screenshots).
+Para mais detalhes sobre meu aprendizado, consulte as anotações:  [📘 docs](./docss/anotacoes)
 
 - **docs/**: Anotações e insights da prática.
 - **templates/**: Templates YAML utilizados para criar a Stack.
-- **screenshots/**: Prints das execuções das Stacks.
+- **screenshots/**: Prints das execuções das Stacks e anotação da explicação dos prints.
 
 ---
 
@@ -40,8 +38,6 @@ Para visualizar o código completo da máquina de estados veja o arquivo dispon�
 - Utilizar o GitHub como ferramenta de compartilhamento de documentação técnica.
 - Boa prática: sempre estruturar o repositório com README, código e imagens organizados.
 
-👉 Para mais detalhes sobre meu aprendizado, consulte o arquivo:  
-[📘 meus-aprendizados](./aprendizados/meus-aprendizados)
 
 ##
 
